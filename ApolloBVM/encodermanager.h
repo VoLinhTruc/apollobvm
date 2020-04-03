@@ -2,7 +2,7 @@
 #define encodermanager_h
 
 #include "Arduino.h"
-#include "Encoder.h"
+#include "Encoder.h" // Compling erroe occur cause losing this library, please provide all the dependence library for this project.
 
 class EncoderManager {
 
